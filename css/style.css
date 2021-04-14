@@ -20,6 +20,6 @@ p{
 	max-width: 100%;
 }
 header.masthead {
-	background-image: url("../img/ett.jpg");
+	background-image: url("/img/ett.jpg");
 	height: 150vh;
 }
